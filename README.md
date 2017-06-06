@@ -8,7 +8,7 @@ This plugin is a great for State services, agencies, non-profit organizations, o
  
 Maps are displayed with the [ebt] shortcode.
 
-Available Parameters:
+## Available Parameters:
 
 search - Searches for stores with this in their names.
 Default: Deli
