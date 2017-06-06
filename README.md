@@ -14,7 +14,7 @@ search - Searches for stores with this in their names.
 Default: Deli
 Example: [ebt search="Market"]
 
-lat - The latitude decimal. Used in conjunction with longitude to specify a location-based search. 
+lat - The latitude decimal. Used in conjunction with longitude to specify a location-based search.
 Default: Empty
 Example: [ebt lat="55.6578" lon="-33.7431"]
 
@@ -26,19 +26,19 @@ radius - Defines the radius (in meters) for the geo-query. Radius can only be us
 Default: Empty
 Ex: [ebt lat="40.8478522" lon="-73.906" radius="10000"]
 
-zip_code - Searches for store in this Zip Code. This parameter can be used in place of latitude & longitude. The radius parameter has no effect on this query. 
-[ebt lat="40.8478522" lon="-73.906" zip_code="10457"]
+zip_code - Searches for store in this Zip Code. This parameter can be used in place of latitude & longitude. The radius parameter has no effect on this query.
 Default: Empty
+[ebt lat="40.8478522" lon="-73.906" zip_code="10457"]
 
 width - Specify width of map in px or %. 
+Default: 100%
 Example: [ebt width="70%"]
-Default: 100%. 
 
 height - Specify height of map in px or %. 
+Default: 500px
 Example: [ebt height="350px"]
-Default: 500px.
 
-Installation
+## Installation
 
 1. Upload `ebt-stores-locator` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the *Plugins* menu in WordPress.
