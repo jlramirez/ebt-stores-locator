@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: EBT Stores Locator
- * Plugin URI: http://gokalugo.com/ebt
+ * Plugin URI: https://github.com/jlramirez/ebt-stores-locator
  * Description: Add a map into your Wordpress posts and/or pages of available EBT Stores using shortcode.
  * Version: 1.0
  * Author: Joel Ramirez
