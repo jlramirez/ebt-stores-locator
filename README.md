@@ -44,7 +44,7 @@ Installation
 2. Activate the plugin through the *Plugins* menu in WordPress.
 3. Add the shortcode to a post or page.
 
-Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is the maximum number of results returned?**
 The maximum number of results returned is 1000.
