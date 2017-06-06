@@ -1,0 +1,30 @@
+.ebt-image-container
+{
+	width: 300px;
+	height: 150px;
+}
+
+.ebt-image-container img
+{
+	height: 100%;
+	max-height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+
+.leaflet-popup-content
+{
+	width: 300px !important;
+}
+
+.leaflet-popup-store-name
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.leaflet-popup-content p
+{
+	margin: 0px !important;
+	font-size: 14px;
+}
