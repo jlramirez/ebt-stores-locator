@@ -1,4 +1,4 @@
-# EBT Stores Locator Plugin
+# EBT Stores Locator ##
 
 EBT Stores Locator allows you to quickly embed a map of stores that accept EBT in any Wordpress post or page by using shortcode. 
 This plugin is a great for State services, agencies, non-profit organizations, or assistance programs looking to discover more places for recipients to purchase food locally, or anywhere they might be.
