@@ -10,7 +10,7 @@ Maps are displayed with the [ebt] shortcode.
 
 Available Parameters:
 
-search - Searches for stores with this in their names. 
+search - Searches for stores with this in their names.
 Default: Deli
 Example: [ebt search="Market"]
 
@@ -45,6 +45,7 @@ Installation
 3. Add the shortcode to a post or page.
 
 Frequently Asked Questions
+
 **What is the maximum number of results returned?**
 The maximum number of results returned is 1000.
 
