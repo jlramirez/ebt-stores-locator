@@ -20,7 +20,7 @@ This plugin is a great for State services, agencies, non-profit organizations, o
 Maps are displayed with the [ebt] shortcode.
 
 Note: This plugin relies on the [BlackNectar API](http://docs.blacknectarapi.apiary.io/#) service to search for stores in the United States that support EBT and 
-[CartoDB](https://carto.com/) to include basemaps.
+[CartoDB](https://carto.com/) for basemaps.
 
 Available Parameters:
 
