@@ -7,7 +7,7 @@ EBT Stores Locator allows you to easily embed a map of stores that accept EBT (E
  
 Maps are displayed with the [ebt] shortcode.  
 
-Note: This plugin relies on the [BlackNectar API](http://docs.blacknectarapi.apiary.io/#) service to search for stores in the United States that support EBT and [ArcGIS](https://www.arcgis.com/features/maps/index.html) to include basemaps.  
+Note: This plugin relies on the [BlackNectar API](http://docs.blacknectarapi.apiary.io/#) service to search for stores in the United States that support EBT and [CartoDB](https://carto.com/) to include basemaps.  
 
 ## Available Parameters ##
 
